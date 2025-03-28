@@ -136,7 +136,7 @@ img{max-width:100%;height:auto;}/* .img-responsive */
 
 /* #navbar */
 #navbar{border-color:#eee;border-bottom-width:2px}
-#navbar .navbar-logo-img{padding-top:0;padding-bottom:0}
+#navbar .navbar-logo-img{padding-top:0;padding-bottom:0;align-content: center; width:33px}
 #navbar .navbar-brand>img{max-height:100%}
 #navbar.navbar-default{background-color:#fefefe}
 #navbar li.dropdown>a>.img-circle{width:20px;height:20px;border:0;margin-right:3px}
